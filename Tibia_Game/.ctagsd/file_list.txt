@@ -1,0 +1,3 @@
+/home/maxberg/Desktop/Tibia_Game/Tibia_Game/Tibia_Game/Characters.cpp
+/home/maxberg/Desktop/Tibia_Game/Tibia_Game/Tibia_Game/Characters.hpp
+/home/maxberg/Desktop/Tibia_Game/Tibia_Game/Tibia_Game/main.cpp
